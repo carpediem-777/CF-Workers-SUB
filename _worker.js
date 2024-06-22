@@ -13,7 +13,6 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 //节点链接 + 订阅链接
 let MainData = `
 vless://88fedca0-8249-490a-8ec0-dda53420cfae@23.106.131.167:1000?type=tcp&security=reality&sni=authorize.videvo.net&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&flow=xtls-rprx-vision&fp=chrome#JP-CN2-GIA|Yangbo.love@xray.com
-http://r0v6686yf.hb-bkt.clouddn.com/dao-vmess-node.yaml
 `
 
 let urls = [];
